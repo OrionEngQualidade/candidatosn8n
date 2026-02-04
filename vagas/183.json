@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "data_processamento": "2026-02-04T16:05:53.206Z",
+    "workflow": "orion-v1",
+    "total_candidatos": 3
+  },
+  "vaga": {
+    "row_number": 6,
+    "ID": 183,
+    "CARGO:": "Engenheiro Mecânico",
+    "CONTRATO/DEPART:": "ENGENHARIA",
+    "DESCRIÇÃO DAS ATIVIDADES:": "4.3.3\tPrincipais atribuições\n•\tPlanejar, organizar, executar e controlar projetos na área da engenharia mecânica, realizar investigações e levantamentos técnicos, definir metodologia de execução, desenvolver estudos ambientais, revisar e aprovar projetos, especificar equipamentos, materiais e serviços;\n•\tCoordenar e executar instalações e manutenções preventiva e corretiva de instalações e equipamentos de climatização, ventilação mecânica transporte vertical e sistemas mecânicos;\n•\tElaborar orçamento de serviços sob demanda, compor custos unitários de mão de obra, equipamentos, materiais e serviços, apropriar custos específicos e gerais do serviço;\n•\tElaborar, supervisionar e coordenar a elaboração, implantação e execução do Plano de Manutenção Operação e Controle (PMOC), fazendo os ajustes necessários para operação do sistema dentro dos parâmetros legais, normativos, técnicos e recomendação dos fabricantes;\n•\tPrestar consultoria técnica, periciar projetos e obras (laudos e avaliações), avaliar dados técnicos e operacionais, programar inspeção preventiva e corretiva e avaliar relatórios de inspeção;\n•\tControlar a qualidade da execução de serviços de climatização e transporte vertical, aceitar ou rejeitar materiais e serviços, identificar métodos e locais para instalação de instrumentos de controle de qualidade;\n•\tInformar imediatamente a existência de problemas técnicos dentro da unidade que possam comprometer total ou parcialmente o seu funcionamento, apresentando diagnóstico e recomendação de solução.\n•\tElaborar normas e documentação técnica, procedimentos e especificações técnicas, normas de avaliação de desempenho técnico e operacional, normas de ensaio de campo e de laboratório;\n•\tElaborar relatórios e laudos técnicos em sua área de especialidade;\n•\tTrabalhar segundo normas técnicas de segurança, qualidade, produtividade, higiene e preservação ambiental.\n•\tExecutar tarefas pertinentes à área de atuação, utilizando-se de equipamentos e programas de informática;\n•\tAcompanhar os serviços emergenciais da área de engenharia mecânica, realizados em horário de expediente ou fora dele;\n•\tAssinar, quando solicitado pela CAIXA, documentações necessárias à obtenção de Auto de Vistoria (AVCB) do Corpo Bombeiros (CB), assim como a Anotação de Responsabilidade Técnica junto ao CREA do Estado onde está localizada a Unidade da CAIXA. Esta atribuição se dará em consonância com as atividades e serviços deste contrato e a especialidade técnica requerida pelo CB, ou, quando couber mais de uma, conforme a CAIXA determinar. Tais documentações serão fornecidas sem ônus para a CAIXA. Caso seja necessária a emissão de ART - Anotação de Responsabilidade Técnica ESPECÍFICA para cada unidade do contrato essa será remunerada conforme previsto no SCE. \n•\tManter atualizado, junto com os demais engenheiros, os registros de alterações nas unidades, cuidando junto com a CAIXA, para manter os “as built” das unidades aderente às instalações.\n•\tCaso necessário, as alterações executadas e o “as built” final deverá ser executado em arquivo do tipo IFC de acordo com formatos e bibliotecas fornecidas pela CAIXA;\n•\tCoordenar empreendimentos de sua área de atuação: administrar modificações no projeto original; aprovar projetos; aprovar serviços; controlar alocação de recursos; controlar cumprimento de normas e diretrizes de segurança; controlar cumprimento do cronograma; coordenar atividades das equipes; \n•\tExecutar serviços de sua área de atuação: analisar propostas técnicas; auditar sistemas; capacitar equipes; configurar sistemas e equipamentos; executar perícia em sistemas e equipamentos; executar testes e ensaios; inspecionar sistemas e equipamentos; instalar sistemas e equipamentos; prestar assistência técnica; prestar consultoria; realizar manutenção em sistemas e equipamentos; supervisionar operação de sistemas e equipamentos\n•\tPrestar consultoria técnica, periciar projetos e obras (laudos e avaliações), avaliar dados técnicos e operacionais, programar manutenção preventiva e corretiva e avaliar relatórios de manutenção; \n•\tEspecificar equipamentos e serviços: associar tecnologias ao processo; avaliar tecnologias disponíveis; definir parâmetros de segurança; determinar aplicabilidade de normas e regulamentos; determinar características técnicas; determinar escopo da especificação; especificar valores dos parâmetros; \n•\tAvaliar desempenho de sistemas e equipamentos; definir critérios e metodologias de planejamento; definir cronograma; propor implementação de sistemas e equipamentos;\n•\tExecutar outras tarefas compatíveis com as exigências para o exercício da função, correlatas, conforme necessidade do serviço.\n",
+    "FORMAÇÃO EXIGIDA:": "SUPERIOR COMPLETO - ENGENHEIRO MECANICO",
+    "FORMAÇÃO DESEJÁVEL:": "N/A",
+    "EXPERIÊNCIA PROFISSIONAL EXIGIDA:": "4.3.2.2\tTer, no mínimo, 06 (seis) meses de experiência profissional em atividades da sua área de especialização, demonstrada através de anotação na Carteira de Trabalho e Previdência Social ou documento equivalente.",
+    "EXPERIÊNCIA PROFISSIONAL DESEJÁVEL:": "N/A",
+    "CONHECIMENTOS EXIGIDOS:": "4.3.2.1\tApresentar a Certidão de Registro Profissional, na sua modalidade, e deve apresentar sua Certidão de Acervo Técnico (CAT) emitida e autenticada pelo CREA, abrangendo atividades técnicas com características semelhantes às atividades a serem desenvolvidas no contrato objeto deste Projeto Básico. O profissional deverá possuir visto no CREA do(s) Estado(s) de abrangência deste(s) contrato(s).",
+    "CONHECIMENTOS DESEJÁVEIS: ": "N/A",
+    "ENDEREÇO DE ATUAÇÃO:": "CAMPINAS",
+    "REMUNERAÇÃO:": 13662,
+    "MODALIDADE DA VAGA:": "CLT",
+    "vaga": "Engenheiro Mecânico",
+    "requisitos_obrigatorios": "SUPERIOR COMPLETO - ENGENHEIRO MECANICO 4.3.2.2\tTer, no mínimo, 06 (seis) meses de experiência profissional em atividades da sua área de especialização, demonstrada através de anotação na Carteira de Trabalho e Previdência Social ou documento equivalente. 4.3.2.1\tApresentar a Certidão de Registro Profissional, na sua modalidade, e deve apresentar sua Certidão de Acervo Técnico (CAT) emitida e autenticada pelo CREA, abrangendo atividades técnicas com características semelhantes às atividades a serem desenvolvidas no contrato objeto deste Projeto Básico. O profissional deverá possuir visto no CREA do(s) Estado(s) de abrangência deste(s) contrato(s).",
+    "requisitos_desejaveis": "N/AN/AN/A",
+    "contexto_vaga": "4.3.3\tPrincipais atribuições\n•\tPlanejar, organizar, executar e controlar projetos na área da engenharia mecânica, realizar investigações e levantamentos técnicos, definir metodologia de execução, desenvolver estudos ambientais, revisar e aprovar projetos, especificar equipamentos, materiais e serviços;\n•\tCoordenar e executar instalações e manutenções preventiva e corretiva de instalações e equipamentos de climatização, ventilação mecânica transporte vertical e sistemas mecânicos;\n•\tElaborar orçamento de serviços sob demanda, compor custos unitários de mão de obra, equipamentos, materiais e serviços, apropriar custos específicos e gerais do serviço;\n•\tElaborar, supervisionar e coordenar a elaboração, implantação e execução do Plano de Manutenção Operação e Controle (PMOC), fazendo os ajustes necessários para operação do sistema dentro dos parâmetros legais, normativos, técnicos e recomendação dos fabricantes;\n•\tPrestar consultoria técnica, periciar projetos e obras (laudos e avaliações), avaliar dados técnicos e operacionais, programar inspeção preventiva e corretiva e avaliar relatórios de inspeção;\n•\tControlar a qualidade da execução de serviços de climatização e transporte vertical, aceitar ou rejeitar materiais e serviços, identificar métodos e locais para instalação de instrumentos de controle de qualidade;\n•\tInformar imediatamente a existência de problemas técnicos dentro da unidade que possam comprometer total ou parcialmente o seu funcionamento, apresentando diagnóstico e recomendação de solução.\n•\tElaborar normas e documentação técnica, procedimentos e especificações técnicas, normas de avaliação de desempenho técnico e operacional, normas de ensaio de campo e de laboratório;\n•\tElaborar relatórios e laudos técnicos em sua área de especialidade;\n•\tTrabalhar segundo normas técnicas de segurança, qualidade, produtividade, higiene e preservação ambiental.\n•\tExecutar tarefas pertinentes à área de atuação, utilizando-se de equipamentos e programas de informática;\n•\tAcompanhar os serviços emergenciais da área de engenharia mecânica, realizados em horário de expediente ou fora dele;\n•\tAssinar, quando solicitado pela CAIXA, documentações necessárias à obtenção de Auto de Vistoria (AVCB) do Corpo Bombeiros (CB), assim como a Anotação de Responsabilidade Técnica junto ao CREA do Estado onde está localizada a Unidade da CAIXA. Esta atribuição se dará em consonância com as atividades e serviços deste contrato e a especialidade técnica requerida pelo CB, ou, quando couber mais de uma, conforme a CAIXA determinar. Tais documentações serão fornecidas sem ônus para a CAIXA. Caso seja necessária a emissão de ART - Anotação de Responsabilidade Técnica ESPECÍFICA para cada unidade do contrato essa será remunerada conforme previsto no SCE. \n•\tManter atualizado, junto com os demais engenheiros, os registros de alterações nas unidades, cuidando junto com a CAIXA, para manter os “as built” das unidades aderente às instalações.\n•\tCaso necessário, as alterações executadas e o “as built” final deverá ser executado em arquivo do tipo IFC de acordo com formatos e bibliotecas fornecidas pela CAIXA;\n•\tCoordenar empreendimentos de sua área de atuação: administrar modificações no projeto original; aprovar projetos; aprovar serviços; controlar alocação de recursos; controlar cumprimento de normas e diretrizes de segurança; controlar cumprimento do cronograma; coordenar atividades das equipes; \n•\tExecutar serviços de sua área de atuação: analisar propostas técnicas; auditar sistemas; capacitar equipes; configurar sistemas e equipamentos; executar perícia em sistemas e equipamentos; executar testes e ensaios; inspecionar sistemas e equipamentos; instalar sistemas e equipamentos; prestar assistência técnica; prestar consultoria; realizar manutenção em sistemas e equipamentos; supervisionar operação de sistemas e equipamentos\n•\tPrestar consultoria técnica, periciar projetos e obras (laudos e avaliações), avaliar dados técnicos e operacionais, programar manutenção preventiva e corretiva e avaliar relatórios de manutenção; \n•\tEspecificar equipamentos e serviços: associar tecnologias ao processo; avaliar tecnologias disponíveis; definir parâmetros de segurança; determinar aplicabilidade de normas e regulamentos; determinar características técnicas; determinar escopo da especificação; especificar valores dos parâmetros; \n•\tAvaliar desempenho de sistemas e equipamentos; definir critérios e metodologias de planejamento; definir cronograma; propor implementação de sistemas e equipamentos;\n•\tExecutar outras tarefas compatíveis com as exigências para o exercício da função, correlatas, conforme necessidade do serviço.\n",
+    "contato_depto": "ENGENHARIA",
+    "ID_vaga": 183
+  },
+  "candidatos": [
+    {
+      "candidato": {
+        "ID": "183",
+        "VAGA": "Engenheiro Mecânico",
+        "CONTRATO/DEPTO": "ENGENHARIA",
+        "NOME": "Lucas TI",
+        "EMAIL": "lucasramosgarcia@gmail.com",
+        "TELEFONE": "11980544877",
+        "EXPERIENCIA": "3 a 5 anos",
+        "CURRICULO": "https://drive.google.com/open?id=11xL-VUfjTkm_jSJt3b51yaTipJpvM3wx",
+        "LINKEDIN": "",
+        "SCORE": 3,
+        "OBSERVACAO": "Candidato apresenta forte experiência em análise de dados e desenvolvimento de dashboards, mas não satisfaz os requisitos obrigatórios para a posição de Engenheiro Mecânico.",
+        "CHAVE_UNICA": "11980544877|183",
+        "candidato_line": 2
+      },
+      "avaliacao": {
+        "score": 3,
+        "classe": "D",
+        "nivel": "Pleno",
+        "aprovado": false,
+        "resumo_inteligente": "Candidato apresenta forte experiência em análise de dados e desenvolvimento de dashboards, mas não satisfaz os requisitos obrigatórios para a posição de Engenheiro Mecânico.",
+        "pontos_fortes": [
+          "Experiência em desenvolvimento de dashboards e análise de dados",
+          "Conhecimento em ferramentas de BI como Power BI e Looker",
+          "Experiência em programação com Python e JavaScript"
+        ],
+        "riscos_alertas": [
+          "Não possui formação em Engenharia Mecânica",
+          "Não apresenta experiência técnica relacionada ao setor mecânico",
+          "Falta de documentação relacionada ao CREA e CAT"
+        ],
+        "perguntas_entrevista": [
+          "Você pode detalhar sua experiência em engenharia mecânica, se houver, que não foi mencionada?",
+          "Você possui certificações ou registro no CREA que possam ser relevantes?",
+          "Como você lidaria com um projeto mecânico sem ter uma formação acadêmica na área?"
+        ],
+        "observacoes": "O candidato não preenche os critérios básicos para a vaga, necessitando de revisão humana para avaliação em outras funções ou áreas."
+      }
+    },
+    {
+      "candidato": {
+        "ID": "183",
+        "VAGA": "Engenheiro Mecânico",
+        "CONTRATO/DEPTO": "ENGENHARIA",
+        "NOME": "lucas engenheiro",
+        "EMAIL": "lucasramosgarcia@gmail.com",
+        "TELEFONE": "11980544877",
+        "EXPERIENCIA": "Mais de 5 anos",
+        "CURRICULO": "https://drive.google.com/open?id=1UUkZjKIjg8TLsFYk_jA9JUsNlSMQdKAv",
+        "LINKEDIN": "",
+        "SCORE": 9,
+        "OBSERVACAO": "Candidato possui mais de 5 anos de experiência em engenharia mecânica, com forte atuação em climatização e transporte vertical, demonstrando capacidades técnicas e responsabilidade em coordenação de projetos.",
+        "CHAVE_UNICA": "11980544877|183",
+        "candidato_line": 3
+      },
+      "avaliacao": {
+        "score": 9,
+        "classe": "A",
+        "nivel": "Pleno",
+        "aprovado": true,
+        "resumo_inteligente": "Candidato possui mais de 5 anos de experiência em engenharia mecânica, com forte atuação em climatização e transporte vertical, demonstrando capacidades técnicas e responsabilidade em coordenação de projetos.",
+        "pontos_fortes": [
+          "Experiência superior a 5 anos na área de engenharia mecânica.",
+          "Sólida experiência em planejamento, coordenação e execução de serviços de climatização e ventilação mecânica.",
+          "Vivência em elaboração e implantação de PMOC, fiscalização técnica e orçamentação.",
+          "Habilidade em consultoria técnica e elaboração de laudos e relatórios.",
+          "Familiaridade com ferramentas como AutoCAD e Revit."
+        ],
+        "riscos_alertas": [
+          "Necessidade de validação da certificação e registro profissional no CREA."
+        ],
+        "perguntas_entrevista": [
+          "Pode detalhar sua experiência na elaboração do PMOC e sua aplicação prática?",
+          "Como você gerencia a qualidade dos serviços executados na sua área?",
+          "Pode citar um projeto específico em que foi responsável pela coordenação? Quais desafios enfrentou?"
+        ],
+        "observacoes": "Candidato está alinhado com a maioria dos requisitos técnicos e demonstra um forte perfil para a posição."
+      }
+    },
+    {
+      "candidato": {
+        "ID": "183",
+        "VAGA": "Engenheiro Mecânico",
+        "CONTRATO/DEPTO": "ENGENHARIA",
+        "NOME": "Lucas Mediano",
+        "EMAIL": "lucasramosgarcia@gmail.com",
+        "TELEFONE": "11980544877",
+        "EXPERIENCIA": "3 a 5 anos",
+        "CURRICULO": "https://drive.google.com/open?id=1IYEUE2iffhoO9WCo_nPW3ScdtsmfwrMv",
+        "LINKEDIN": "",
+        "SCORE": 6.5,
+        "OBSERVACAO": "Candidato com experiência em manutenção de sistemas de climatização e apoio técnico na engenharia mecânica, porém não atende aos requisitos mínimos de formação e experiência relacionados à anotação no CREA e à também falta da CAT.",
+        "CHAVE_UNICA": "11980544877|183",
+        "candidato_line": 4
+      },
+      "avaliacao": {
+        "score": 6.5,
+        "classe": "C",
+        "nivel": "Junior",
+        "aprovado": false,
+        "resumo_inteligente": "Candidato com experiência em manutenção de sistemas de climatização e apoio técnico na engenharia mecânica, porém não atende aos requisitos mínimos de formação e experiência relacionados à anotação no CREA e à também falta da CAT.",
+        "pontos_fortes": [
+          "Experiência em manutenção de sistemas de climatização",
+          "Apoio técnico em atividades de engenharia mecânica",
+          "Experiência em elaboração de relatórios técnicos"
+        ],
+        "riscos_alertas": [
+          "Não apresenta Certidão de Registro Profissional nem Certidão de Acervo Técnico (CAT)",
+          "Experiência mínima necessária de 6 meses em atividades específicas não está comprovada de forma formal"
+        ],
+        "perguntas_entrevista": [
+          "Você pode fornecer documentação que comprove sua anotação no CREA e a CAT?",
+          "Quais foram os seus principais projetos na área de climatização e quais resultados você considera mais relevantes?",
+          "Como você aborda a elaboração de orçamentos e quais ferramentas você utiliza?",
+          "Você já teve experiência em coordenar equipes ou serviços terceirizados? Como foi essa experiência?"
+        ],
+        "observacoes": "A candidatura poderia ser mais forte com comprovações de registro profissional e experiência formalizada na área."
+      }
+    }
+  ]
+}
