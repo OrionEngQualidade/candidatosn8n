@@ -1,0 +1,29 @@
+{
+  "id": "11980544877_183",
+  "nome": "Lucas TI",
+  "email": "lucasramosgarcia@gmail.com",
+  "telefone": "11980544877",
+  "linkedin": "",
+  "vaga": "Engenheiro Mecânico",
+  "curriculo": "https://drive.google.com/open?id=11xL-VUfjTkm_jSJt3b51yaTipJpvM3wx",
+  "anos_experiencia": "3 a 5 anos",
+  "evidencia_experiencia": "experiencia em webhooks, criação de workflows em n8n, dashboards no looker, java script, sheets, power bi, conserto de computadores",
+  "score": 3,
+  "classe": "D",
+  "nivel": "Junior",
+  "aprovado": false,
+  "resumo_inteligente": "Candidato apresenta experiência predominantemente em análise de dados, sem comprovação de formação em Engenharia Mecânica ou experiência relevante na área da engenharia mecânica.",
+  "observacoes": "A ausência de experiência na área específica é um fator crítico para a reprovação na seleção.",
+  "pontos_fortes": [],
+  "riscos_alertas": [
+    "Falta de formação em Engenharia Mecânica.",
+    "Nenhuma experiência comprovada em atividades relacionadas à engenharia mecânica.",
+    "Atribuições da vaga não convergem com o perfil de analista de dados."
+  ],
+  "perguntas_entrevista": [
+    "Você possui formação específica em Engenharia Mecânica?",
+    "Pode detalhar experiências anteriores relacionadas às funções de engenharia mecânica descritas na vaga?",
+    "Como você acredita que suas habilidades em análise de dados podem ser aplicadas na engenharia mecânica?"
+  ],
+  "timestamp": "2026-02-04T15:32:34.232Z"
+}
